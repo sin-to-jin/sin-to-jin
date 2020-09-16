@@ -4,4 +4,4 @@
 
 ![ogasawaraShinnosuke's github stats](https://github-readme-stats.vercel.app/api?username=ogasawaraShinnosuke&show_icons=true&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ogasawaraShinnosuke&theme=onedark)](https://github.com/ogasawaraShinnosuke/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ogasawaraShinnosuke&theme=onedark&rank=SSS,SS,S,AAA,AA,A,SECRET)](https://github.com/ogasawaraShinnosuke/github-profile-trophy)
